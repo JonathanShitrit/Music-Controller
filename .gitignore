@@ -1,0 +1,21 @@
+*.pyc
+db.sqlite3
+.DS_Store
+.env
+/frontend/static/*
+__pycache__/
+/.vscode/
+
+
+
+# npm
+node_modules/
+npm-debug.log
+
+# Webpack
+/frontend/bundles/*
+/frontend/webpack_bundles/*
+/webpack-stats.json
+/jquery-webpack-stats.json
+
+
